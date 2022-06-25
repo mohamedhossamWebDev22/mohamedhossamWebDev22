@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mohamedhossamWebDev22
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on ...???
-- 📫 How to reach me ... 0...
+- 🌱 I’m currently learning OOP
+- 💞️ I’m looking to collaborate on Alone???
+- 📫 How to reach me that's my facebook👇 :
+-      https://www.facebook.com/profile.php?id=100054732847946.
 
 <!---
 mohamedhossamWebDev22/mohamedhossamWebDev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
