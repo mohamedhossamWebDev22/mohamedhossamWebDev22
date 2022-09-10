@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohamedhossamWebDev22
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning SASS
-- 💞️ I’m looking to collaborate on Alone???
 - 📫 How to reach me that's my facebook👇 :
 -      https://www.facebook.com/profile.php?id=100054732847946.
 
